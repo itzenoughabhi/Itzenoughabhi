@@ -16,6 +16,7 @@
 <p align="left">
 <a href="https://twitter.com/abhishe47603287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishe47603287" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishek9055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek9055" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Itzenoughabhi"
 <a href="https://www.youtube.com/@Itzenoughabhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itzenoughabhi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@itzenoughabhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="itzenoughabhi" height="30" width="40" /></a>
 <a href="/https://abhishek2006.blogspot.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://abhishek2006.blogspot.com/" height="30" width="40" /></a>
