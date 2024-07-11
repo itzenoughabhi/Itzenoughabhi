@@ -1,4 +1,4 @@
-![logo](https://github.com/Itzenoughabhi/Itzenoughabhi/blob/main/Beige%20Modern%20Elegant%20Personal%20LinkedIn%20Banner.png)
+![logo](https://github.com/itzenoughabhi/itzenoughabhi/blob/main/LINKEDIN.jpg)
 <h1 align="center">Hi 👋, I'm ABHISHEK YADAV</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
