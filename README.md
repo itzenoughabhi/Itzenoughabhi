@@ -1,4 +1,4 @@
-![logo](https://github.com/itzenoughabhi/Itzenoughabhi/blob/main/linked.png)
+
 # 💫 About Me:
 👋 Hi, I'm Abhishek Yadav<br><br>Full Stack Developer | React | Next.js | Node.js | PostgreSQL<br><br>I build modern, scalable web applications with clean UI,<br>strong backend architecture, and real-world functionality.<br><br>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━<br><br>🚀 What I Do<br>• Build full-stack web applications<br>• Design responsive and interactive UIs<br>• Develop REST APIs and backend systems<br>• Work with databases and authentication<br>• Explore AI-powered web applications<br><br>🛠 Tech Stack<br><br>Frontend<br>React • Next.js • JavaScript • TypeScript • Tailwind CSS<br><br>Backend<br>Node.js • Express.js • REST APIs<br><br>Database<br>PostgreSQL • MongoDB • Prisma<br><br>Tools<br>Git • GitHub • VS Code • Docker
 
