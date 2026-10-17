@@ -30,7 +30,9 @@ Hi, I'm **Abhishek Yadav**, a B.Tech student at **Mumbai University, Maharashtra
 ## Recognition & Project Focus
 
 <div align="center">
+  <a href="https://portfolioabhi-ketq.vercel.app/">
   <img src="assets/recognition.svg" alt="Project focus: Oxeno, EV routing, and APIxplore" width="100%" />
+    </a>
 </div>
 
 *This section highlights project focus rather than claiming awards or certifications.*
@@ -40,7 +42,9 @@ Hi, I'm **Abhishek Yadav**, a B.Tech student at **Mumbai University, Maharashtra
 ## Selected Projects
 
 <div align="center">
+  <a href="https://portfolioabhi-ketq.vercel.app/">
   <img src="assets/projects.svg" alt="Selected projects: Oxeno, EV Charging Network, Gym Management System, and APIxplore" width="100%" />
+    </a>
 </div>
 
 - **Oxeno — Multi-tenant POS & WhatsApp Billing:** billing, inventory, customer records, and WhatsApp bill delivery. Project work has explored Next.js/React, Node.js/NestJS, PostgreSQL, Prisma, and tenant data isolation. *Work in progress; public demo link not yet added.*
@@ -71,7 +75,9 @@ Hi, I'm **Abhishek Yadav**, a B.Tech student at **Mumbai University, Maharashtra
 ## Toolkit
 
 <div align="center">
+  <a href="https://portfolioabhi-ketq.vercel.app/">
   <img src="assets/toolkit.svg" alt="Toolkit cards for languages, frontend, backend, data, and developer workflow" width="100%" />
+    </a>
 </div>
 
 ---
