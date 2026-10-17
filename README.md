@@ -1,10 +1,10 @@
-<div align="center">
+ <div align="center">
 
 <img src="assets/abhishek-hero.png" alt="Abhishek Yadav — Full-Stack Developer and AI/ML Enthusiast" width="100%" />
 
 <p>
-  <a href="https://github.com/itzenoughabhi"><img src="https://img.shields.io/badge/GitHub-Profile-101827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <a href="https://github.com/itzenoughabhi?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-14213D?style=for-the-badge&logo=git&logoColor=9DB4FF" alt="Explore repositories" /></a>
+  <a href="https://github.com/itzenoughabhi"><img src="https://img.shields.io/badge/GitHub-Profile-101827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
+  <a href="https://github.com/itzenoughabhi?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-14213D?style=for-the-badge&logo=git&logoColor=9DB4FF" alt="Explore Repositories" /></a>
 </p>
 
 ### Building useful products with code — from full-stack platforms to real-time systems.
@@ -13,7 +13,7 @@
 
 ---
 
-## About
+## About Me
 
 Hi, I'm **Abhishek Yadav**, a B.Tech student at **Mumbai University, Maharashtra**. I enjoy building web applications and exploring how software, APIs, databases, and real-time systems work together.
 
@@ -24,39 +24,49 @@ Hi, I'm **Abhishek Yadav**, a B.Tech student at **Mumbai University, Maharashtra
 
 > I keep this profile focused on real projects. Features, awards, metrics, and deployment claims are included only when I can verify them.
 
+---
+
+## Recognition & Project Focus
+
+<div align="center">
+  <img src="assets/recognition.svg" alt="Recognition and project focus" width="100%" />
+</div>
+
+---
+
 ## Featured Projects
 
-### 1. Oxeno — Multi-tenant POS and WhatsApp Billing Platform
+### 1. Oxeno — Multi-tenant POS & WhatsApp Billing
 
-A point-of-sale platform project focused on billing, inventory, customer records, and WhatsApp bill delivery.
+A point-of-sale project focused on billing, inventory, customer records, and WhatsApp bill delivery.
 
-**Areas explored:** Next.js/React, NestJS/Node.js, PostgreSQL, Prisma, multi-tenant data isolation, and billing workflows.
+**Technologies explored:** Next.js, React, Node.js/NestJS, PostgreSQL, Prisma, and multi-tenant data isolation.
 
-*Status: work in progress. Add a public repository or live demo link here when available.*
+*Status: Work in progress. Add a public repository or live demo link when available.*
 
 ### 2. EV Vehicle Power Station
 
-An EV-focused project exploring vehicle power/charging station experiences and supporting web functionality.
+An EV-focused project exploring vehicle power and charging-station workflows.
 
-**Repository:** [itzenoughabhi/ev-vehical-power-station](https://github.com/itzenoughabhi/ev-vehical-power-station)
+**Repository:** [EV Vehicle Power Station](https://github.com/itzenoughabhi/ev-vehical-power-station)
 
 ### 3. Smart Route for EV Vehicles
 
-A project focused on route planning for EV vehicles, connected to broader EV assistance scenarios.
+A project focused on route planning for EV vehicles and related EV assistance scenarios.
 
-**Repository:** [itzenoughabhi/smart-route-for-ev-vehical](https://github.com/itzenoughabhi/smart-route-for-ev-vehical)
+**Repository:** [Smart Route for EV Vehicles](https://github.com/itzenoughabhi/smart-route-for-ev-vehical)
 
 ### 4. Gym Management System
 
-A web project for gym-management workflows. See the repository for its current implementation and feature set.
+A web project for gym-management workflows.
 
-**Repository:** [itzenoughabhi/gym-management-system](https://github.com/itzenoughabhi/gym-management-system)
+**Repository:** [Gym Management System](https://github.com/itzenoughabhi/gym-management-system)
 
-### 5. APIxplore — API Security and Testing Concept
+### 5. APIxplore — API Security & Testing
 
 A project concept focused on API discovery, BOLA/IDOR testing, API health checks, and schema-drift detection.
 
-*Status: project concept/proposal. Do not assume every capability is implemented unless the repository or demo confirms it.*
+*Status: Project concept/proposal. Individual features should be described as implemented only when verified.*
 
 ---
 
@@ -64,27 +74,44 @@ A project concept focused on API discovery, BOLA/IDOR testing, API health checks
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,postgres,prisma,git,github,vscode&theme=dark" alt="JavaScript, React, Next.js, Node.js, PostgreSQL, Prisma, Git, GitHub, and VS Code" />
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,postgres,prisma,git,github,vscode&theme=dark" alt="JavaScript, React, Next.js, Node.js, PostgreSQL, Prisma, Git, GitHub, VS Code" />
 
 </div>
 
-- **Languages & Web:** JavaScript, HTML, CSS, React, Next.js
-- **Backend & APIs:** Node.js, REST APIs; exploring NestJS
-- **Data:** PostgreSQL, Prisma
-- **Tools:** Git, GitHub, VS Code
+| Category | Technologies |
+|---|---|
+| Languages & Web | JavaScript, HTML, CSS |
+| Frontend | React, Next.js |
+| Backend & APIs | Node.js, REST APIs; exploring NestJS |
+| Database | PostgreSQL, Prisma |
+| Developer Tools | Git, GitHub, VS Code |
 
-*This list reflects technologies discussed in my project work; it is not a claim of expert-level proficiency in every item.*
+*This list reflects technologies discussed in my project work, not a claim of expert-level proficiency in every item.*
+
+---
+
+## Toolkit
+
+<div align="center">
+  <img src="assets/toolkit.svg" alt="Developer toolkit cards" width="100%" />
+</div>
+
+---
 
 ## What I'm Exploring
 
 - Multi-tenant application design and data isolation
-- Reliable API design, authentication, and authorisation
-- EV routing, charging-station workflows, and 3D web interfaces
-- Better developer experience through clear documentation and maintainable code
+- API design, authentication, authorization, and BOLA/IDOR risks
+- EV routing and charging-station workflows
+- 3D web interfaces and maintainable software architecture
+
+---
 
 ## GitHub Activity
 
-See my actual contribution history on [my GitHub profile](https://github.com/itzenoughabhi). This README intentionally avoids hard-coded contribution counts, language percentages, streaks, or rankings.
+Explore my repositories and contribution history on [GitHub](https://github.com/itzenoughabhi).
+
+I avoid hard-coded contribution totals, streaks, rankings, or statistics that have not been verified.
 
 ---
 
