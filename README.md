@@ -47,21 +47,7 @@ Hi, I'm **Abhishek Yadav**, a B.Tech student at **Mumbai University, Maharashtra
 
 ---
 
-## Tech Stack
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,postgres,prisma,git,github,vscode&theme=dark" alt="JavaScript, React, Next.js, Node.js, PostgreSQL, Prisma, Git, GitHub, and VS Code" />
-</div>
-
-| Area | Technologies |
-|---|---|
-| Languages & Web | JavaScript, HTML, CSS |
-| Frontend | React, Next.js |
-| Backend & APIs | Node.js, REST APIs; exploring NestJS |
-| Data | PostgreSQL, Prisma |
-| Tools | Git, GitHub, VS Code |
-
-*This list reflects technologies used or explored in project work, not expert-level proficiency in every item.*
 
 ## Toolkit
 
