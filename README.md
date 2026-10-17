@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/abhishek-hero.svg" alt="Abhishek Yadav — Full-Stack Developer and AI/ML Enthusiast" width="100%" />
+<img src="/abhishek-hero.svg" alt="Abhishek Yadav — Full-Stack Developer and AI/ML Enthusiast" width="100%" />
 
 ### Building useful products with code — from full-stack platforms to real-time systems.
 
