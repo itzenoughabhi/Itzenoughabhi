@@ -1,6 +1,9 @@
+
 <div align="center">
 
-<img src="assets/abhishek-hero.png" alt="Abhishek Yadav — Full-Stack Developer and AI/ML Enthusiast" width="100%" />
+<a href="https://portfolioabhi-ketq.vercel.app/">
+  <img src="assets/abhishek-hero.png" alt="Abhishek Yadav — Visit My Portfolio" width="100%" />
+</a>
 
 <p>
   <a href="https://github.com/itzenoughabhi"><img src="https://img.shields.io/badge/GitHub-Profile-101827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
@@ -44,6 +47,24 @@ Hi, I'm **Abhishek Yadav**, a B.Tech student at **Mumbai University, Maharashtra
 - **EV Charging Network / Smart Route for EV Vehicles:** [Open repository](https://github.com/itzenoughabhi/smart-route-for-ev-vehical). The older `ev-vehical-power-station` URL currently redirects to this repository, so it is listed once to avoid a duplicate.
 - **Gym Management System:** [Open repository](https://github.com/itzenoughabhi/gym-management-system)
 - **APIxplore:** API discovery, BOLA/IDOR testing, health checks, and schema-drift detection are proposed project capabilities; don't assume each is implemented without checking the project.
+
+---
+
+## Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,postgres,prisma,git,github,vscode&theme=dark" alt="JavaScript, React, Next.js, Node.js, PostgreSQL, Prisma, Git, GitHub, and VS Code" />
+</div>
+
+| Area | Technologies |
+|---|---|
+| Languages & Web | JavaScript, HTML, CSS |
+| Frontend | React, Next.js |
+| Backend & APIs | Node.js, REST APIs; exploring NestJS |
+| Data | PostgreSQL, Prisma |
+| Tools | Git, GitHub, VS Code |
+
+*This list reflects technologies used or explored in project work, not expert-level proficiency in every item.*
 
 ---
 
