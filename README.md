@@ -10,6 +10,29 @@
   <a href="https://github.com/itzenoughabhi?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-14213D?style=for-the-badge&logo=git&logoColor=9DB4FF" alt="Explore Repositories" /></a>
 </p>
 
+## contact & portfolio section
+<p align="center">
+  <a href="https://portfolioabhi-ketq.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit%20Website-6C63FF?style=for-the-badge" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/itzenoughabhi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/YOUR_X_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/X-Follow%20Me-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+
 ### Building useful products with code — from full-stack platforms to real-time systems.
 
 </div>
