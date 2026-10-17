@@ -15,7 +15,7 @@
 
 ## About
 
-Hi, I'm **Abhishek Yadav**, a B.Tech student at **Team College of Engineering, Boisar, Maharashtra**. I enjoy building web applications and exploring how software, APIs, databases, and real-time systems work together.
+Hi, I'm **Abhishek Yadav**, a B.Tech student at *Mumbai University* Maharashtra**. I enjoy building web applications and exploring how software, APIs, databases, and real-time systems work together.
 
 - 💻 Interested in **full-stack development**, backend systems, and practical product engineering.
 - 🧩 Working with technologies including **JavaScript, React, Next.js, Node.js, PostgreSQL, Prisma, and REST APIs**.
@@ -83,7 +83,7 @@ See my actual contribution history on [my GitHub profile](https://github.com/itz
 
 <div align="center">
 
-<img src="assets/abhishek-footer.svg" alt="Keep building. Keep learning." width="100%" />
+<img src="/abhishek-footer.svg" alt="Keep building. Keep learning." width="100%" />
 
 <sub>Built with curiosity • Updated as projects evolve</sub>
 
