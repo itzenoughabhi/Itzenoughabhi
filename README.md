@@ -41,7 +41,7 @@ Hi, I'm **Abhishek Yadav**, a B.Tech student at **Mumbai University, Maharashtra
 </div>
 
 - **Oxeno — Multi-tenant POS & WhatsApp Billing:** billing, inventory, customer records, and WhatsApp bill delivery. Project work has explored Next.js/React, Node.js/NestJS, PostgreSQL, Prisma, and tenant data isolation. *Work in progress; public demo link not yet added.*
-- **EV Charging Network / Smart Route for EV Vehicles:** [Open repository](https://github.com/itzenoughabhi/smart-route-for-ev-vehical). The older `ev-vehical-power-station` URL currently redirects to this repository, so it is listed once to avoid a duplicate.
+- **EV Charging Network / Smart Route for EV Vehicles:** [Open repository](https://github.com/itzenoughabhi/smart-route-for-ev-vehical).
 - **Gym Management System:** [Open repository](https://github.com/itzenoughabhi/gym-management-system)
 - **APIxplore:** API discovery, BOLA/IDOR testing, health checks, and schema-drift detection are proposed project capabilities; don't assume each is implemented without checking the project.
 
