@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-labelledby="title">
-<title id="title">The tools I reach for — developer toolkit</title>
-<defs><linearGradient id="bg"><stop stop-color="#07101E"/><stop offset="1" stop-color="#0B1830"/></linearGradient></defs>
-<rect x="1" y="1" width="1198" height="468" rx="18" fill="url(#bg)" stroke="#5369B8"/>
-<text x="32" y="38" fill="#91A4FF" font-family="monospace" font-size="12" letter-spacing="3">03 / TOOLKIT</text>
-<text x="32" y="82" fill="#F7F8FF" font-family="Georgia, serif" font-size="36">The tools <tspan fill="#8798FF" font-style="italic">I reach for.</tspan></text>
-<g font-family="Georgia, serif" fill="#F7F8FF">
- <g transform="translate(24 110)"><rect width="365" height="150" rx="13" fill="#0A1528" stroke="#526BC1"/><text x="20" y="29" fill="#91A4FF" font-family="monospace" font-size="12">01 / LANGUAGES</text><text x="20" y="68" font-size="25">JavaScript · Python</text><text x="20" y="103" fill="#B7C6E8" font-size="20">C · C++</text><path d="M20 125H340" stroke="#263C70"/></g>
- <g transform="translate(417 110)"><rect width="365" height="150" rx="13" fill="#0A1528" stroke="#526BC1"/><text x="20" y="29" fill="#91A4FF" font-family="monospace" font-size="12">02 / FRONTEND</text><text x="20" y="68" font-size="25">React · Next.js</text><text x="20" y="103" fill="#B7C6E8" font-size="20">HTML · CSS</text><path d="M20 125H340" stroke="#263C70"/></g>
- <g transform="translate(810 110)"><rect width="365" height="150" rx="13" fill="#0A1528" stroke="#526BC1"/><text x="20" y="29" fill="#91A4FF" font-family="monospace" font-size="12">03 / BACKEND &amp; APIs</text><text x="20" y="68" font-size="25">Node.js</text><text x="20" y="103" fill="#B7C6E8" font-size="20">REST APIs · NestJS explored</text><path d="M20 125H340" stroke="#263C70"/></g>
- <g transform="translate(24 280)"><rect width="365" height="150" rx="13" fill="#0A1528" stroke="#526BC1"/><text x="20" y="29" fill="#91A4FF" font-family="monospace" font-size="12">04 / DATABASE</text><text x="20" y="68" font-size="25">PostgreSQL</text><text x="20" y="103" fill="#B7C6E8" font-size="20">Prisma · data modelling</text><path d="M20 125H340" stroke="#263C70"/></g>
- <g transform="translate(417 280)"><rect width="365" height="150" rx="13" fill="#0A1528" stroke="#526BC1"/><text x="20" y="29" fill="#91A4FF" font-family="monospace" font-size="12">05 / AI &amp; SYSTEMS</text><text x="20" y="68" font-size="25">AI/ML exploration</text><text x="20" y="103" fill="#B7C6E8" font-size="20">EV routing · 3D web</text><path d="M20 125H340" stroke="#263C70"/></g>
- <g transform="translate(810 280)"><rect width="365" height="150" rx="13" fill="#0A1528" stroke="#526BC1"/><text x="20" y="29" fill="#91A4FF" font-family="monospace" font-size="12">06 / DEVELOPER TOOLS</text><text x="20" y="68" font-size="25">Git · GitHub</text><text x="20" y="103" fill="#B7C6E8" font-size="20">VS Code · debugging</text><path d="M20 125H340" stroke="#263C70"/></g>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title">
+<title id="title">Developer toolkit</title>
+<defs><linearGradient id="bg"><stop stop-color="#091326"/><stop offset="1" stop-color="#0D1930"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="348" rx="18" fill="url(#bg)" stroke="#344D86"/>
+<text x="28" y="35" fill="#9BAAFF" font-family="monospace" font-size="12" letter-spacing="3">03 / TOOLKIT</text>
+<text x="28" y="76" fill="#F4F6FF" font-family="Georgia,serif" font-size="35">The tools I reach for.</text>
+<g font-family="Georgia,serif" fill="#F4F6FF">
+ <g transform="translate(25 100)"><rect width="365" height="103" rx="12" fill="#0B172C" stroke="#344D86"/><text x="18" y="25" fill="#9BAAFF" font-family="monospace" font-size="11">01 / LANGUAGES</text><text x="18" y="58" font-size="24">JavaScript · Python</text><text x="18" y="82" fill="#B9C7E8" font-size="17">HTML · CSS · C/C++ explored</text></g>
+ <g transform="translate(417 100)"><rect width="365" height="103" rx="12" fill="#0B172C" stroke="#344D86"/><text x="18" y="25" fill="#9BAAFF" font-family="monospace" font-size="11">02 / FRONTEND</text><text x="18" y="58" font-size="24">React · Next.js</text><text x="18" y="82" fill="#B9C7E8" font-size="17">Responsive web interfaces</text></g>
+ <g transform="translate(809 100)"><rect width="366" height="103" rx="12" fill="#0B172C" stroke="#344D86"/><text x="18" y="25" fill="#9BAAFF" font-family="monospace" font-size="11">03 / BACKEND &amp; APIs</text><text x="18" y="58" font-size="24">Node.js · REST APIs</text><text x="18" y="82" fill="#B9C7E8" font-size="17">NestJS explored in project work</text></g>
+ <g transform="translate(25 220)"><rect width="560" height="103" rx="12" fill="#0B172C" stroke="#344D86"/><text x="18" y="25" fill="#9BAAFF" font-family="monospace" font-size="11">04 / DATA</text><text x="18" y="58" font-size="24">PostgreSQL · Prisma</text><text x="18" y="82" fill="#B9C7E8" font-size="17">Database modelling and queries</text></g>
+ <g transform="translate(612 220)"><rect width="563" height="103" rx="12" fill="#0B172C" stroke="#344D86"/><text x="18" y="25" fill="#9BAAFF" font-family="monospace" font-size="11">05 / WORKFLOW &amp; INTERESTS</text><text x="18" y="58" font-size="24">Git · GitHub · VS Code</text><text x="18" y="82" fill="#B9C7E8" font-size="17">API security · EV routing · 3D web</text></g>
+</g>
+</svg>

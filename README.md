@@ -1,4 +1,4 @@
- <div align="center">
+<div align="center">
 
 <img src="assets/abhishek-hero.png" alt="Abhishek Yadav — Full-Stack Developer and AI/ML Enthusiast" width="100%" />
 
@@ -22,96 +22,65 @@ Hi, I'm **Abhishek Yadav**, a B.Tech student at **Mumbai University, Maharashtra
 - 🚗 Exploring **EV charging, route planning, and 3D web visualisation**.
 - 🛠️ I value clear interfaces, useful features, and systems that solve real problems.
 
-> I keep this profile focused on real projects. Features, awards, metrics, and deployment claims are included only when I can verify them.
-
 ---
 
 ## Recognition & Project Focus
 
 <div align="center">
-  <img src="assets/recognition.svg" alt="Recognition and project focus" width="100%" />
+  <img src="assets/recognition.svg" alt="Project focus: Oxeno, EV routing, and APIxplore" width="100%" />
 </div>
+
+*This section highlights project focus rather than claiming awards or certifications.*
 
 ---
 
-## Featured Projects
+## Selected Projects
 
-### 1. Oxeno — Multi-tenant POS & WhatsApp Billing
+<div align="center">
+  <img src="assets/projects.svg" alt="Selected projects: Oxeno, EV Charging Network, Gym Management System, and APIxplore" width="100%" />
+</div>
 
-A point-of-sale project focused on billing, inventory, customer records, and WhatsApp bill delivery.
-
-**Technologies explored:** Next.js, React, Node.js/NestJS, PostgreSQL, Prisma, and multi-tenant data isolation.
-
-*Status: Work in progress. Add a public repository or live demo link when available.*
-
-### 2. EV Vehicle Power Station
-
-An EV-focused project exploring vehicle power and charging-station workflows.
-
-**Repository:** [EV Vehicle Power Station](https://github.com/itzenoughabhi/ev-vehical-power-station)
-
-### 3. Smart Route for EV Vehicles
-
-A project focused on route planning for EV vehicles and related EV assistance scenarios.
-
-**Repository:** [Smart Route for EV Vehicles](https://github.com/itzenoughabhi/smart-route-for-ev-vehical)
-
-### 4. Gym Management System
-
-A web project for gym-management workflows.
-
-**Repository:** [Gym Management System](https://github.com/itzenoughabhi/gym-management-system)
-
-### 5. APIxplore — API Security & Testing
-
-A project concept focused on API discovery, BOLA/IDOR testing, API health checks, and schema-drift detection.
-
-*Status: Project concept/proposal. Individual features should be described as implemented only when verified.*
+- **Oxeno — Multi-tenant POS & WhatsApp Billing:** billing, inventory, customer records, and WhatsApp bill delivery. Project work has explored Next.js/React, Node.js/NestJS, PostgreSQL, Prisma, and tenant data isolation. *Work in progress; public demo link not yet added.*
+- **EV Charging Network / Smart Route for EV Vehicles:** [Open repository](https://github.com/itzenoughabhi/smart-route-for-ev-vehical). The older `ev-vehical-power-station` URL currently redirects to this repository, so it is listed once to avoid a duplicate.
+- **Gym Management System:** [Open repository](https://github.com/itzenoughabhi/gym-management-system)
+- **APIxplore:** API discovery, BOLA/IDOR testing, health checks, and schema-drift detection are proposed project capabilities; don't assume each is implemented without checking the project.
 
 ---
 
 ## Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,postgres,prisma,git,github,vscode&theme=dark" alt="JavaScript, React, Next.js, Node.js, PostgreSQL, Prisma, Git, GitHub, VS Code" />
-
+  <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,postgres,prisma,git,github,vscode&theme=dark" alt="JavaScript, React, Next.js, Node.js, PostgreSQL, Prisma, Git, GitHub, and VS Code" />
 </div>
 
-| Category | Technologies |
+| Area | Technologies |
 |---|---|
 | Languages & Web | JavaScript, HTML, CSS |
 | Frontend | React, Next.js |
 | Backend & APIs | Node.js, REST APIs; exploring NestJS |
-| Database | PostgreSQL, Prisma |
-| Developer Tools | Git, GitHub, VS Code |
+| Data | PostgreSQL, Prisma |
+| Tools | Git, GitHub, VS Code |
 
-*This list reflects technologies discussed in my project work, not a claim of expert-level proficiency in every item.*
-
----
+*This list reflects technologies used or explored in project work, not expert-level proficiency in every item.*
 
 ## Toolkit
 
 <div align="center">
-  <img src="assets/toolkit.svg" alt="Developer toolkit cards" width="100%" />
+  <img src="assets/toolkit.svg" alt="Toolkit cards for languages, frontend, backend, data, and developer workflow" width="100%" />
 </div>
 
 ---
 
-## What I'm Exploring
+## Current Learning Focus
 
 - Multi-tenant application design and data isolation
 - API design, authentication, authorization, and BOLA/IDOR risks
 - EV routing and charging-station workflows
 - 3D web interfaces and maintainable software architecture
 
----
-
 ## GitHub Activity
 
-Explore my repositories and contribution history on [GitHub](https://github.com/itzenoughabhi).
-
-I avoid hard-coded contribution totals, streaks, rankings, or statistics that have not been verified.
+Explore my repositories and contribution history on [GitHub](https://github.com/itzenoughabhi). I avoid hard-coded contribution totals, streaks, rankings, or statistics that have not been verified.
 
 ---
 
