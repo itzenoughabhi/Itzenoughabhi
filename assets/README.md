@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/abhishek-hero.svg" alt="Abhishek Yadav — Full-Stack Developer and AI/ML Enthusiast" width="100%" />
+<img src="assets/abhishek-hero.svg" alt="Abhishek Yadav — Full-Stack Developer and AI/ML Enthusiast" width="100%" />
 
 ### Building useful products with code — from full-stack platforms to real-time systems.
 
@@ -83,7 +83,7 @@ See my actual contribution history on [my GitHub profile](https://github.com/itz
 
 <div align="center">
 
-<img src="/abhishek-footer.svg" alt="Keep building. Keep learning." width="100%" />
+<img src="assets/abhishek-footer.svg" alt="Keep building. Keep learning." width="100%" />
 
 <sub>Built with curiosity • Updated as projects evolve</sub>
 
