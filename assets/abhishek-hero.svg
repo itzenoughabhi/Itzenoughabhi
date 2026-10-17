@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-labelledby="title">
+<title id="title">Abhishek Yadav — Full-Stack Developer</title>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07101E"/><stop offset=".55" stop-color="#0B1830"/><stop offset="1" stop-color="#080D19"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#7C8CFF"/><stop offset="1" stop-color="#55D6FF"/></linearGradient>
+ <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#8FA8FF" stroke-opacity=".08"/></pattern>
+ <radialGradient id="orb"><stop stop-color="#6D7CFF" stop-opacity=".5"/><stop offset="1" stop-color="#17284F" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="370" rx="20" fill="url(#bg)" stroke="#5369B8"/>
+<rect width="1200" height="370" rx="20" fill="url(#grid)"/>
+<ellipse cx="900" cy="160" rx="270" ry="230" fill="url(#orb)"/>
+<g fill="none" stroke="#7B8CFF" stroke-opacity=".55"><circle cx="900" cy="150" r="140"/><circle cx="900" cy="150" r="110" stroke-dasharray="3 9"/><circle cx="900" cy="150" r="170" stroke-opacity=".25"/></g>
+<path d="M40 280 C200 250 300 320 450 280 S700 230 820 280" fill="none" stroke="url(#accent)" stroke-width="2"/>
+<rect x="44" y="24" width="290" height="40" rx="9" fill="#081326" stroke="#526BC1"/>
+<circle cx="62" cy="44" r="5" fill="#91A0FF"/>
+<text x="80" y="49" fill="#B7C6FF" font-family="monospace" font-size="14" letter-spacing="1">itzenoughabhi@github: ~</text>
+<text x="60" y="104" fill="#9FB3FF" font-family="monospace" font-size="13" letter-spacing="4">HELLO, WORLD — I'M</text>
+<text x="56" y="180" fill="#F7F8FF" font-family="Georgia, serif" font-size="68">Abhishek</text>
+<text x="56" y="246" fill="#8798FF" font-family="Georgia, serif" font-size="68" font-style="italic">Yadav.</text>
+<text x="60" y="285" fill="#F2F5FF" font-family="Georgia, serif" font-size="21">Full-Stack Developer · AI/ML Enthusiast</text>
+<text x="60" y="321" fill="#A9B8E8" font-family="monospace" font-size="13" letter-spacing="2">BUILDING · LEARNING · ITERATING</text>
+<text x="780" y="70" fill="#E7EBFF" font-family="monospace" font-size="14">AI/ML</text><text x="1040" y="70" fill="#E7EBFF" font-family="monospace" font-size="14">WEB</text><text x="770" y="190" fill="#E7EBFF" font-family="monospace" font-size="14">APIs</text><text x="1035" y="190" fill="#E7EBFF" font-family="monospace" font-size="14">SYSTEMS</text>
+<rect x="900" y="245" width="240" height="72" rx="10" fill="#081326" stroke="#526BC1"/><circle cx="920" cy="266" r="4" fill="#91A0FF"/><text x="934" y="270" fill="#A9B8E8" font-family="monospace" font-size="12">status</text><text x="920" y="293" fill="#F7F8FF" font-family="monospace" font-size="15">always_building</text><path d="M920 305H1115" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+</svg>
