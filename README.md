@@ -47,8 +47,6 @@ Hi, I'm **Abhishek Yadav**, a B.Tech student at **Mumbai University, Maharashtra
 
 ---
 
-
-
 ## Toolkit
 
 <div align="center">
