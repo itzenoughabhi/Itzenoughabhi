@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/abhishek-hero.png" alt="Abhishek Yadav — Full-Stack Developer and AI/ML Enthusiast" width="100%" />
+<a href="https://portfolioabhi-ketq.vercel.app/"><img src="assets/abhishek-hero.png" alt="Abhishek Yadav — Full-Stack Developer and AI/ML Enthusiast" width="100%" /></a>
 
 <p>
   <a href="https://github.com/itzenoughabhi"><img src="https://img.shields.io/badge/GitHub-Profile-101827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
