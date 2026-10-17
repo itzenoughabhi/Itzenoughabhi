@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Abhishek Yadav — Developer Profile</title>
+  <desc id="desc">A modern dark banner with a graphite background, subtle grid, cyan accents, and a restrained animated line.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080B12"/>
+      <stop offset="0.58" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0B1220"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#38BDF8" stop-opacity="0.15"/>
+      <stop offset="0.5" stop-color="#67E8F9"/>
+      <stop offset="1" stop-color="#818CF8" stop-opacity="0.65"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#94A3B8" stroke-opacity="0.09" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-40%" y="-200%" width="180%" height="500%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+  <circle cx="1040" cy="80" r="190" fill="#2563EB" opacity="0.08"/>
+  <circle cx="1050" cy="80" r="120" fill="none" stroke="#67E8F9" stroke-opacity="0.18"/>
+  <circle cx="1050" cy="80" r="84" fill="none" stroke="#818CF8" stroke-opacity="0.18" stroke-dasharray="3 9"/>
+  <path d="M0 284 C180 242 250 322 430 272 S760 220 920 274 S1090 300 1200 244" fill="none" stroke="url(#accent)" stroke-width="2" opacity="0.85">
+    <animate attributeName="stroke-dasharray" values="1 18;18 1;1 18" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <path d="M56 72H96" stroke="#67E8F9" stroke-width="3" stroke-linecap="round"/>
+  <text x="56" y="118" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" letter-spacing="4">HELLO, WORLD — I'M</text>
+  <text x="52" y="184" fill="#F8FAFC" font-family="Inter, Arial, sans-serif" font-size="52" font-weight="750" letter-spacing="-1">Abhishek Yadav</text>
+  <text x="56" y="224" fill="#CBD5E1" font-family="Inter, Arial, sans-serif" font-size="21">Full-Stack Developer · AI/ML Enthusiast</text>
+  <text x="56" y="258" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">BUILDING • LEARNING • ITERATING</text>
+  <g transform="translate(936 215)">
+    <rect x="0" y="0" width="202" height="78" rx="12" fill="#0F172A" stroke="#334155"/>
+    <circle cx="19" cy="20" r="4" fill="#38BDF8"/>
+    <text x="32" y="24" fill="#CBD5E1" font-family="ui-monospace, monospace" font-size="12">status</text>
+    <text x="18" y="49" fill="#F8FAFC" font-family="ui-monospace, monospace" font-size="14">always_learning</text>
+    <path d="M18 62H184" stroke="#38BDF8" stroke-opacity=".6" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>
